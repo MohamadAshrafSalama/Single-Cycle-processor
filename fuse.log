@@ -1,0 +1,43 @@
+Running: D:\XIL\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303_isim_beh.exe -prj C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303_beh.prj work.MipsSingleCycle_MohamadAshraf_18101303 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/sighEx_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/shiftLeft_MohamadAshraf_1810303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/RegisterFile_mohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/PC_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/Mux2t01_32bit_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/Memoryunitmail_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/InstructionMemory_MohamadAshra_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/controlunit_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ALU_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ALUControl_MohamadAshraf18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ADDER_MohamadAshraf_18101303.vhd" into library work
+Parsing VHDL file "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/SingleCycle_MohamadAshraf_18101303_2021.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity PC_MohamadAshraf_18101303 [pc_mohamadashraf_18101303_defaul...]
+Compiling architecture behavioral of entity ADDER_MohamadAshraf_18101303 [adder_mohamadashraf_18101303_def...]
+Compiling architecture behavioral of entity InstructionMemory_MohamadAshra_18101303 [instructionmemory_mohamadashra_1...]
+Compiling architecture behavioral of entity controlunit_MohamadAshraf_18101303 [controlunit_mohamadashraf_181013...]
+Compiling architecture behavioral of entity MUX2to1_5Bit_MohamadAshraf_18101303 [mux2to1_5bit_mohamadashraf_18101...]
+Compiling architecture behavioral of entity Mux2t01_32bit_MohamadAshraf_18101303 [mux2t01_32bit_mohamadashraf_1810...]
+Compiling architecture behavioral of entity RegisterFile_mohamadAshraf_18101303 [registerfile_mohamadashraf_18101...]
+Compiling architecture behavioral of entity sighEx_MohamadAshraf_18101303 [sighex_mohamadashraf_18101303_de...]
+Compiling architecture behavioral of entity shiftLeft_MohamadAshraf_1810303 [shiftleft_mohamadashraf_1810303_...]
+Compiling architecture behavioral of entity ALUControl_MohamadAshraf18101303 [alucontrol_mohamadashraf18101303...]
+Compiling architecture behavioral of entity ALU_MohamadAshraf_18101303 [alu_mohamadashraf_18101303_defau...]
+Compiling architecture behavioral of entity Memoryunitmail_MohamadAshraf_18101303 [memoryunitmail_mohamadashraf_181...]
+Compiling architecture behavioral of entity mipssinglecycle_mohamadashraf_18...
+Time Resolution for simulation is 1ps.
+Compiled 30 VHDL Units
+Built simulation executable C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303_isim_beh.exe
+Fuse Memory Usage: 38576 KB
+Fuse CPU Usage: 639 ms

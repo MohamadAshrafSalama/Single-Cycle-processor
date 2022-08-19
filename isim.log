@@ -1,0 +1,32 @@
+ISim log file
+Running: C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\MipsSingleCycle_MohamadAshraf_18101303_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/PCAdder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/BranchAdder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/BranchAdder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/InstructionMemoryMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/InstructionMemoryMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/InstructionMemoryMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/InstructionMemoryMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/RegisterFileMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/RegisterFileMain/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/BranchAdder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mipssinglecycle_mohamadashraf_18101303/BranchAdder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# isim force add /mipssinglecycle_mohamadashraf_18101303/clk_main 0 -radix bin -value 1 -radix bin -time 50 ps -repeat 100 ps
+# run
+ERROR: Index 128 out of bound 0 to 127. 
+ERROR: In process InstructionMemory_MohamadAshra_18101303.vhd:60 
+ 
+INFO: Simulator is stopped.
+# step
+INFO: Simulator is stopped.

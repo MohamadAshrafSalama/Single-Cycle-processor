@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303.xst" -ofn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303.syr" 
+xst -intstyle ise -ifn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303.xst" -ofn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MipsSingleCycle_MohamadAshraf_18101303.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MipsSingleCycle_MohamadAshraf_18101303.ngc" MipsSingleCycle_MohamadAshraf_18101303.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MipsSingleCycle_MohamadAshraf_18101303_map.ncd MipsSingleCycle_MohamadAshraf_18101303.ngd MipsSingleCycle_MohamadAshraf_18101303.pcf 

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="MohamadAshra_18101303_2021.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="BranchAdder_MohamadAshraf18101303.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="BranchAdder_MohamadAshraf18101303.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="BranchAdder_MohamadAshraf18101303.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MemoryMUx_MohamadAshraf_18101303.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MemoryMUx_MohamadAshraf_18101303_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MemoryMUx_MohamadAshraf_18101303_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MemoryMUx_MohamadAshraf_18101303_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="PC_FadySamyGoda_18102062.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="PC_FadySamyGoda_18102062.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PC_FadySamyGoda_18102062.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="PC_FadySamyGoda_18102062.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="PC_FadySamyGoda_18102062.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="PC_FadySamyGoda_18102062_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="PC_FadySamyGoda_18102062_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="PC_MohamadAshraf_18101303.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="PC_MohamadAshraf_18101303.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="PC_MohamadAshraf_18101303.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="PC_MohamadAshraf_18101303.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PC_MohamadAshraf_18101303.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="PC_MohamadAshraf_18101303.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="PC_MohamadAshraf_18101303.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="PC_MohamadAshraf_18101303.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="PC_MohamadAshraf_18101303_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="PC_MohamadAshraf_18101303_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="PC_MohamadAshraf_18101303_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="controlunit_MohamadAshraf_18101303.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="controlunit_MohamadAshraf_18101303.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="controlunit_MohamadAshraf_18101303.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="controlunit_MohamadAshraf_18101303.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="controlunit_MohamadAshraf_18101303.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="controlunit_MohamadAshraf_18101303.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="controlunit_MohamadAshraf_18101303.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="controlunit_MohamadAshraf_18101303.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="controlunit_MohamadAshraf_18101303_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="controlunit_MohamadAshraf_18101303_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="controlunit_MohamadAshraf_18101303_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1623159618" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159618" xil_pn:in_ck="7178090790505747948" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDER_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="ALUControl_MohamadAshraf18101303.vhd"/>
+      <outfile xil_pn:name="ALU_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="InstructionMemory_MohamadAshra_18101303.vhd"/>
+      <outfile xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="Memoryunitmail_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="Mux2t01_32bit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="PC_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="RegisterFile_mohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="SingleCycle_MohamadAshraf_18101303_2021.vhd"/>
+      <outfile xil_pn:name="controlunit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="shiftLeft_MohamadAshraf_1810303.vhd"/>
+      <outfile xil_pn:name="sighEx_MohamadAshraf_18101303.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159618" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-1876368002948289431" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159618" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2103081724468240327" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159618" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="268799733765307951" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159618" xil_pn:in_ck="7178090790505747948" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1623159618">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDER_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="ALUControl_MohamadAshraf18101303.vhd"/>
+      <outfile xil_pn:name="ALU_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="InstructionMemory_MohamadAshra_18101303.vhd"/>
+      <outfile xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="Memoryunitmail_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="Mux2t01_32bit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="PC_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="RegisterFile_mohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="SingleCycle_MohamadAshraf_18101303_2021.vhd"/>
+      <outfile xil_pn:name="controlunit_MohamadAshraf_18101303.vhd"/>
+      <outfile xil_pn:name="shiftLeft_MohamadAshraf_1810303.vhd"/>
+      <outfile xil_pn:name="sighEx_MohamadAshraf_18101303.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1623166330" xil_pn:in_ck="7178090790505747948" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-1569294785819808011" xil_pn:start_ts="1623166325">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_beh.prj"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1623166893" xil_pn:in_ck="6508957712978433461" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-4400978139976710174" xil_pn:start_ts="1623166893">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1623155046" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1623155046">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-5053372112365219001" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="268799733765307951" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-1876368002948289431" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159427" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="7282069138922149817" xil_pn:start_ts="1623159427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159499" xil_pn:in_ck="7178090790505747948" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-4588584877561349002" xil_pn:start_ts="1623159488">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="MUX2to1_5Bit_MohamadAshraf_18101303.ngr"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.lso"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngc"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngr"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.prj"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.stx"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.syr"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.xst"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_xst.xrpt"/>
+      <outfile xil_pn:name="PC_MohamadAshraf_18101303.ngr"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="controlunit_MohamadAshraf_18101303.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159591" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-8858410446565095298" xil_pn:start_ts="1623159591">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159602" xil_pn:in_ck="-820599370403208138" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="8126751908453532330" xil_pn:start_ts="1623159591">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.bld"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303.ngd"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1623159615" xil_pn:in_ck="6263243059515471341" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1623159602">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_map.map"/>
+      <outfile xil_pn:name="MipsSingleCycle_MohamadAshraf_18101303_map.mrp"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

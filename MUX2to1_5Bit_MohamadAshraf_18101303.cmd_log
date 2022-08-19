@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.xst" -ofn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.syr" 
+xst -intstyle ise -ifn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.xst" -ofn "C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.syr" 
