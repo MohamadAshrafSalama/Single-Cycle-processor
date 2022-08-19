@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ADDER_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ALUControl_MohamadAshraf18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/ALU_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/InstructionMemory_MohamadAshra_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/MUX2to1_5Bit_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/Memoryunitmail_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/Mux2t01_32bit_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/PC_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/RegisterFile_mohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/SingleCycle_MohamadAshraf_18101303_2021.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/controlunit_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/shiftLeft_MohamadAshraf_1810303.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/mhama/Desktop/Mohmad Ashraf/MohamadAshra_18101303_2021/sighEx_MohamadAshraf_18101303.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

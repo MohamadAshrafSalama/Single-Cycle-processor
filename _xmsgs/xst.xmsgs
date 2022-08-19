@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\RegisterFile_mohamadAshraf_18101303.vhd" Line 53: <arg fmt="%s" index="1">reg</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\RegisterFile_mohamadAshraf_18101303.vhd" Line 54: <arg fmt="%s" index="1">reg</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">163</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PCMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">PC_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">169</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PCAdder</arg>&gt; of block &lt;<arg fmt="%s" index="4">ADDER_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">176</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">BranchAdder</arg>&gt; of block &lt;<arg fmt="%s" index="4">ADDER_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">182</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">InstructionMemoryMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">InstructionMemory_MohamadAshra_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">187</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ControlUnitMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">controlunit_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">199</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MUXRegDst</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX2to1_5Bit_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">206</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MemoryMUX</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux2t01_32bit_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">213</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALUMUX</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux2t01_32bit_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">222</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PCMUX</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux2t01_32bit_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">229</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">RegisterFileMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">RegisterFile_mohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">240</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">SignExtendMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">sighEx_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">245</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ShiftLeft2Main</arg>&gt; of block &lt;<arg fmt="%s" index="4">shiftLeft_MohamadAshraf_1810303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">252</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALUControlMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALUControl_MohamadAshraf18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">259</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALU</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\mhama\Desktop\Mohmad Ashraf\MohamadAshra_18101303_2021\SingleCycle_MohamadAshraf_18101303_2021.vhd</arg>&quot; line <arg fmt="%d" index="2">268</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MemoryUnitMain</arg>&gt; of block &lt;<arg fmt="%s" index="4">Memoryunitmail_MohamadAshraf_18101303</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">MipsSingleCycle_MohamadAshraf_18101303</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+
