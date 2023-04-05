@@ -1,0 +1,39 @@
+# Xilinx ISE build artifacts
+*.ngc
+*.ngr
+*.syr
+*.bld
+*.xrpt
+*.ngd
+*.map
+*.mrp
+*.lso
+*.prj
+*.stx
+*.xst
+*.gise
+*.xise
+*.bmm
+*.cmd_log
+*.wdb
+*.exe
+*.log
+*.html
+*.xml
+
+# Xilinx directories
+isim/
+_ngo/
+_xmsgs/
+xst/
+iseconfig/
+xlnx_auto_0_xdb/
+
+# Simulation
+*.vdb
+*.ini
+*.cmd
+
+# OS files
+.DS_Store
+Thumbs.db
