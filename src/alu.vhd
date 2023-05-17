@@ -36,6 +36,7 @@ begin
     end process;
 
     Result <= alu_result;
+    -- Zero flag: combinational compare
     Zero <= '1' when A = B else '0';
 
 end Behavioral;
