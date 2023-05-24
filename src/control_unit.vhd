@@ -21,7 +21,7 @@ begin
 
     process(Opcode)
     begin
-        -- defaults
+        -- Default all control signals to 0
         RegDst   <= '0';
         ALUSrc   <= '0';
         MemToReg <= '0';
