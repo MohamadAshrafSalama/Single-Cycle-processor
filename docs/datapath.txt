@@ -1,0 +1,61 @@
+MIPS Single-Cycle Processor Datapath
+=====================================
+
+This processor implements a subset of the MIPS ISA using a single-cycle
+datapath based on the design from Patterson & Hennessy "Computer Organization
+and Design" (5th Edition).
+
+Supported Instructions:
+  R-type: add, sub, and, or, slt
+  I-type: lw, sw, beq, addi
+
+Datapath Components:
+  1. Program Counter (PC)
+     - Latches new address on rising edge
+     - Accepts input on falling edge
+  
+  2. Instruction Memory
+     - Byte-addressable, 128 bytes
+     - Outputs 32-bit instruction at given PC address
+  
+  3. Control Unit
+     - Decodes 6-bit opcode field
+     - Generates: RegDst, ALUSrc, MemToReg, RegWrite, MemRead, MemWrite,
+       Branch, ALUOp(1:0)
+  
+  4. Register File
+     - 32 registers, each 32 bits wide
+     - Two read ports (combinational), one write port (synchronous)
+     - Register $0 is hardwired to zero by initialization
+  
+  5. ALU
+     - Operations: AND, OR, ADD, SUB, SLT, NOR
+     - Zero flag output for branch comparison
+  
+  6. ALU Control
+     - Takes ALUOp from control unit and function field from instruction
+     - Outputs 4-bit ALU operation code
+  
+  7. Data Memory
+     - Byte-addressable, 128 bytes
+     - Read on falling edge, write on rising edge
+  
+  8. Sign Extend
+     - Extends 16-bit immediate to 32 bits with sign preservation
+  
+  9. Shift Left 2
+     - Shifts branch offset left by 2 for word alignment
+  
+  10. Multiplexers
+      - RegDst mux (5-bit): selects write register (rt vs rd)
+      - ALUSrc mux (32-bit): selects ALU input B (register vs immediate)
+      - MemToReg mux (32-bit): selects write-back data (ALU result vs memory)
+      - Branch mux (32-bit): selects next PC (PC+4 vs branch target)
+
+Signal Flow:
+  PC -> Instruction Memory -> Control Unit + Register File
+  Register File outputs -> ALU (with muxed second input)
+  ALU result -> Data Memory address
+  Data Memory / ALU result -> Register File write-back
+  PC+4 + shifted sign-extended offset -> Branch target
+  Branch decision (Branch AND Zero) selects next PC
