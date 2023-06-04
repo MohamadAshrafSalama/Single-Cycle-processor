@@ -17,7 +17,7 @@ end RegisterFile;
 
 architecture Behavioral of RegisterFile is
     type reg_array is array(0 to 31) of STD_LOGIC_VECTOR(31 downto 0);
-    signal regs : reg_array := (others => x"00000000");
+    signal regs : reg_array := (0 => x"00000000", others => x"00000000");
 begin
 
     process(CLK, RegWrite)
