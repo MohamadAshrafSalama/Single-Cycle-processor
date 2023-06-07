@@ -37,7 +37,9 @@ begin
     begin
         -- Let the processor run through the test program
         -- The program loops through memory copy and branch
-        wait for CLK_PERIOD * 50;
+        -- Run enough cycles for the test program to complete
+        -- The program has 13 instructions with a loop
+        wait for CLK_PERIOD * 80;
 
         -- Stop simulation
         assert false report "Simulation finished" severity failure;
